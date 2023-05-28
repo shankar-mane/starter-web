@@ -1,7 +1,0 @@
-KSQL is a SQL engine that allows you to process and analyze the Real-Time Streaming Data present in the Apache Kafka platform. In other words, KSQL provides an Interactive Framework for performing Stream Processing activities such as Data Aggregation
-
-Data Aggregation
-
-infrastructure
-
-Seamlessly leverage your existing Apache Kafka® infrastructure to deploy stream-processing workloads and bring powerful new capabilities to your applications
